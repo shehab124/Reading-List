@@ -1,3 +1,10 @@
+# Reading list web app where you can add, delete books stored in a local storage.
+
+Technologies used: ReactJs, Context API, Reducer
+
+![image](https://github.com/shehab124/Reading-List/assets/79970898/e2dae6fc-c1a6-4b17-883a-4caf099e738e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
